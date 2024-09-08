@@ -8,3 +8,5 @@ Analizirajući niz znakova dobivenih leksičkom analizom određuje je li sintati
   3. "java SintaksniAnalizator < input.txt"
 
 
+U drugom repozitoriju (Checker) ću stavit i program koji uzima zadan program i datoteku s testovima i na temelju njih uspoređuje je li dobar izlaz i javlja "correct" ako je dobro i "incorrect" ako nije. S njim se brže testira jer omogućuje lakšu provjeru.
+
